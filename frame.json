@@ -1,0 +1,11 @@
+{
+  "version": "vNext",
+  "name": "Mint Neobase Alien",
+  "image": "https://gnn569.github.io/gnn-miniapp/Alien_Neobase_Punk.png",
+  "post_url": "https://neobase-frames.vercel.app/api/frame",
+  "buttons": [
+    {
+      "label": "Mint Now"
+    }
+  ]
+}
