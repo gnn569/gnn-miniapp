@@ -1,0 +1,14 @@
+{
+  "version": "vNext",
+  "content": {
+    "title": "Neobase Punks",
+    "image": "https://neobasepunk.mypinata.cloud/ipfs/QmZkgtVJmTznBkJDtS6kFvHKZUV53RBsnb14uj6xH89sXv",
+    "post_url": "https://basepunksmint.vercel.app"
+  },
+  "buttons": [
+    {
+      "label": "MINT FREE",
+      "action": "post"
+    }
+  ]
+}
