@@ -1,11 +1,14 @@
 {
   "version": "vNext",
-  "name": "Mint Neobase Alien",
-  "image": "https://gnn569.github.io/gnn-miniapp/Alien_Neobase_Punk.png",
-  "post_url": "https://neobase-frames.vercel.app/api/frame",
+  "content": {
+    "title": "Neobase Punks",
+    "image": "https://neobasepunk.mypinata.cloud/ipfs/QmZkgtVJmTznBkJDtS6kFvHKZUV53RBsnb14uj6xH89sXv",
+    "post_url": "https://basepunksmint.vercel.app"
+  },
   "buttons": [
     {
-      "label": "Mint Now"
+      "label": "MINT FREE",
+      "action": "post"
     }
   ]
 }
