@@ -2,13 +2,13 @@
   "version": "vNext",
   "content": {
     "title": "Neobase Punks",
-    "image": "https://neobasepunk.mypinata.cloud/ipfs/QmZkgtVJmTznBkJDtS6kFvHKZUV53RBsnb14uj6xH89sXv",
-    "post_url": "https://basepunksmint.vercel.app"
+    "image": "https://neobasepunk.mypinata.cloud/ipfs/QmZkgvTJmTznBkJDtS6kFvHKZUV53RBsnb14uj6xH89sXv"
   },
   "buttons": [
     {
       "label": "MINT FREE",
-      "action": "post"
+      "action": "link",
+      "target": "https://basepunksmint.vercel.app"
     }
   ]
 }
