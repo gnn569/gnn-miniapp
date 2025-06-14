@@ -1,14 +1,12 @@
 {
   "version": "vNext",
-  "content": {
-    "title": "Neobase Punks",
-    "image": "https://neobasepunk.mypinata.cloud/ipfs/QmZkgvTJmTznBkJDtS6kFvHKZUV53RBsnb14uj6xH89sXv"
-  },
+  "image": "https://gnn-miniapp.vercel.app/Alien_Neobase_Punk.png",
   "buttons": [
     {
-      "label": "MINT FREE",
+      "label": "Mint Now",
       "action": "link",
-      "target": "https://basepunksmint.vercel.app"
+      "target": "https://zora.co/collect/base:0x..."  // <- isse update kar lena apne zora link se
     }
-  ]
+  ],
+  "post_url": "https://gnn-miniapp.vercel.app/api/frame"
 }
