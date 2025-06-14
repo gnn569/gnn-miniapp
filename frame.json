@@ -5,7 +5,7 @@
     {
       "label": "Mint Now",
       "action": "link",
-      "target": "https://zora.co/collect/base:0x..."  // <- isse update kar lena apne zora link se
+      "target": "https://zora.co/collect/base:0x6E08e084BA6BafFaE8467faF3DF158C59304e88F"
     }
   ],
   "post_url": "https://gnn-miniapp.vercel.app/api/frame"
